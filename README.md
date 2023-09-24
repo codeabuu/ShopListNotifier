@@ -24,6 +24,9 @@ Here is your list!
 
 Additional Notes
 
-The script will send the text message as per your set time until you send the done command. This is to prevent you from forgetting about your list.
+The script will send the text message as per your set time until you send the done command. 
+This is to prevent you from forgetting about your list.
 You can also modify the script to send the shopping list to multiple phone numbers.
-You can also use the script to send a text message with the shopping list on a specific day and time each week.
+You can also use the script to send a text message with the shopping list on a specific day
+**N.B** To keep your code running continuously in the background, even if your laptop is shut off, you'll need to host it on a remote server or use a cloud-based platform.
+and time each week.
