@@ -1,9 +1,7 @@
 
 README.md
 
-This Python script allows you to create and send a weekly shopping list as a text message using Twilio.
-
-Instructions
+This Python script allows you to create and send a weekly shopping list as a text message using Twilio. Git clone this repo the follow these instructions:
 
 1. Install the required dependencies:
 	pip install twilio
